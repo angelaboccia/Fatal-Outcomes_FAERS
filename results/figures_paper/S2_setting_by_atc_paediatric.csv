@@ -1,0 +1,71 @@
+class,setting,label,n,pct,n_total
+Nitrogen mustard analogues,off_label_use,Off-label use,612,21.679064824654624,2823
+Nitrogen mustard analogues,suicide_self_harm,Suicide / self-harm,1,0.035423308537017355,2823
+Nitrogen mustard analogues,medication_error,Medication error,7,0.2479631597591215,2823
+Nitrogen mustard analogues,accidental_exposure,Accidental exposure,45,1.5940488841657812,2823
+Nitrogen mustard analogues,abuse_misuse,Abuse / misuse,39,1.381509032943677,2823
+Nitrogen mustard analogues,unspecified_overdose,Unspecified overdose,2,0.07084661707403471,2823
+Nitrogen mustard analogues,spontaneous_unspecified,Normal use / unspecified,2117,74.99114417286575,2823
+Corticosteroids for local oral treatment,off_label_use,Off-label use,423,19.019784172661872,2224
+Corticosteroids for local oral treatment,suicide_self_harm,Suicide / self-harm,9,0.40467625899280574,2224
+Corticosteroids for local oral treatment,medication_error,Medication error,2,0.08992805755395683,2224
+Corticosteroids for local oral treatment,accidental_exposure,Accidental exposure,23,1.0341726618705036,2224
+Corticosteroids for local oral treatment,abuse_misuse,Abuse / misuse,22,0.9892086330935251,2224
+Corticosteroids for local oral treatment,unspecified_overdose,Unspecified overdose,2,0.08992805755395683,2224
+Corticosteroids for local oral treatment,spontaneous_unspecified,Normal use / unspecified,1743,78.37230215827338,2224
+Folic acid analogues,off_label_use,Off-label use,364,16.552978626648475,2199
+Folic acid analogues,suicide_self_harm,Suicide / self-harm,0,0.0,2199
+Folic acid analogues,medication_error,Medication error,8,0.36380172805820826,2199
+Folic acid analogues,accidental_exposure,Accidental exposure,48,2.1828103683492497,2199
+Folic acid analogues,abuse_misuse,Abuse / misuse,22,1.0004547521600728,2199
+Folic acid analogues,unspecified_overdose,Unspecified overdose,3,0.1364256480218281,2199
+Folic acid analogues,spontaneous_unspecified,Normal use / unspecified,1754,79.76352887676217,2199
+Vinca alkaloids and analogues,off_label_use,Off-label use,290,14.187866927592955,2044
+Vinca alkaloids and analogues,suicide_self_harm,Suicide / self-harm,0,0.0,2044
+Vinca alkaloids and analogues,medication_error,Medication error,5,0.2446183953033268,2044
+Vinca alkaloids and analogues,accidental_exposure,Accidental exposure,37,1.8101761252446185,2044
+Vinca alkaloids and analogues,abuse_misuse,Abuse / misuse,34,1.6634050880626223,2044
+Vinca alkaloids and analogues,unspecified_overdose,Unspecified overdose,4,0.19569471624266144,2044
+Vinca alkaloids and analogues,spontaneous_unspecified,Normal use / unspecified,1674,81.89823874755382,2044
+Podophyllotoxin derivatives,off_label_use,Off-label use,401,22.94050343249428,1748
+Podophyllotoxin derivatives,suicide_self_harm,Suicide / self-harm,0,0.0,1748
+Podophyllotoxin derivatives,medication_error,Medication error,3,0.17162471395881007,1748
+Podophyllotoxin derivatives,accidental_exposure,Accidental exposure,22,1.2585812356979404,1748
+Podophyllotoxin derivatives,abuse_misuse,Abuse / misuse,20,1.1441647597254005,1748
+Podophyllotoxin derivatives,unspecified_overdose,Unspecified overdose,0,0.0,1748
+Podophyllotoxin derivatives,spontaneous_unspecified,Normal use / unspecified,1302,74.48512585812357,1748
+Anthracyclines and related substances,off_label_use,Off-label use,238,14.637146371463714,1626
+Anthracyclines and related substances,suicide_self_harm,Suicide / self-harm,0,0.0,1626
+Anthracyclines and related substances,medication_error,Medication error,13,0.7995079950799509,1626
+Anthracyclines and related substances,accidental_exposure,Accidental exposure,30,1.845018450184502,1626
+Anthracyclines and related substances,abuse_misuse,Abuse / misuse,31,1.9065190651906518,1626
+Anthracyclines and related substances,unspecified_overdose,Unspecified overdose,1,0.06150061500615006,1626
+Anthracyclines and related substances,spontaneous_unspecified,Normal use / unspecified,1313,80.75030750307504,1626
+Pyrimidine analogues,off_label_use,Off-label use,200,12.812299807815503,1561
+Pyrimidine analogues,suicide_self_harm,Suicide / self-harm,0,0.0,1561
+Pyrimidine analogues,medication_error,Medication error,10,0.6406149903907752,1561
+Pyrimidine analogues,accidental_exposure,Accidental exposure,32,2.0499679692504804,1561
+Pyrimidine analogues,abuse_misuse,Abuse / misuse,14,0.8968609865470852,1561
+Pyrimidine analogues,unspecified_overdose,Unspecified overdose,1,0.06406149903907751,1561
+Pyrimidine analogues,spontaneous_unspecified,Normal use / unspecified,1304,83.53619474695708,1561
+Calcineurin inhibitors,off_label_use,Off-label use,345,25.688756515264334,1343
+Calcineurin inhibitors,suicide_self_harm,Suicide / self-harm,1,0.07446016381236038,1343
+Calcineurin inhibitors,medication_error,Medication error,4,0.29784065524944153,1343
+Calcineurin inhibitors,accidental_exposure,Accidental exposure,22,1.6381236038719285,1343
+Calcineurin inhibitors,abuse_misuse,Abuse / misuse,28,2.084884586746091,1343
+Calcineurin inhibitors,unspecified_overdose,Unspecified overdose,0,0.0,1343
+Calcineurin inhibitors,spontaneous_unspecified,Normal use / unspecified,943,70.21593447505585,1343
+"Agents for dermatitis, excluding corticosteroids",off_label_use,Off-label use,364,27.20478325859492,1338
+"Agents for dermatitis, excluding corticosteroids",suicide_self_harm,Suicide / self-harm,0,0.0,1338
+"Agents for dermatitis, excluding corticosteroids",medication_error,Medication error,6,0.4484304932735426,1338
+"Agents for dermatitis, excluding corticosteroids",accidental_exposure,Accidental exposure,33,2.4663677130044843,1338
+"Agents for dermatitis, excluding corticosteroids",abuse_misuse,Abuse / misuse,36,2.690582959641256,1338
+"Agents for dermatitis, excluding corticosteroids",unspecified_overdose,Unspecified overdose,0,0.0,1338
+"Agents for dermatitis, excluding corticosteroids",spontaneous_unspecified,Normal use / unspecified,899,67.1898355754858,1338
+"Corticosteroids, weak (group I)",off_label_use,Off-label use,355,28.129952456418383,1262
+"Corticosteroids, weak (group I)",suicide_self_harm,Suicide / self-harm,0,0.0,1262
+"Corticosteroids, weak (group I)",medication_error,Medication error,3,0.23771790808240886,1262
+"Corticosteroids, weak (group I)",accidental_exposure,Accidental exposure,8,0.6339144215530903,1262
+"Corticosteroids, weak (group I)",abuse_misuse,Abuse / misuse,9,0.7131537242472267,1262
+"Corticosteroids, weak (group I)",unspecified_overdose,Unspecified overdose,1,0.07923930269413629,1262
+"Corticosteroids, weak (group I)",spontaneous_unspecified,Normal use / unspecified,886,70.20602218700475,1262

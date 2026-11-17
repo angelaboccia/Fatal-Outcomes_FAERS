@@ -1,0 +1,15 @@
+Variable,"One suspect drug, <=1 indication (proxy)"
+N cases,"774,748"
+Age (years) — mean (SD),65.7 (18.6)
+Age — missing N (%),"328,500 (42.4%)"
+Sex — Male N (%),"360,290 (46.5%)"
+Sex — Female N (%),"301,990 (39.0%)"
+Sex — missing/unknown N (%),"112,468 (14.5%)"
+Drugs per case — median (IQR),1 (1–1)
+Indications per case — median (IQR),1 (1–1)
+Reporter — MD N (%),"179,504 (23.2%)"
+Reporter — CN N (%),"319,230 (41.2%)"
+Reporter — other N (%),"234,208 (30.2%)"
+Reporter — missing N (%),"41,806 (5.4%)"
+Most frequent reporter,CN
+Year range (FDA receipt date),2000–2026

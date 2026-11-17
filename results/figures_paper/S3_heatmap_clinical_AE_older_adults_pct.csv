@@ -1,0 +1,11 @@
+ATC_CLASS,PNEUMONIA,MALIGNANT NEOPLASM PROGRESSION,DYSPNOEA,GASTROINTESTINAL HAEMORRHAGE,DIARRHOEA,PLASMA CELL MYELOMA,SEPSIS,FALL,RESPIRATORY FAILURE,ACUTE KIDNEY INJURY,ASTHENIA,ANAEMIA,FATIGUE,DECREASED APPETITE,NAUSEA
+Other immunosuppressants,4.98,0.62,1.75,0.35,1.07,12.57,2.59,1.12,1.81,1.45,1.37,1.62,1.15,0.94,0.87
+Direct factor Xa inhibitors,1.85,0.21,0.89,11.85,0.31,0.08,1.06,3.89,1.47,3.82,0.44,1.82,0.24,0.19,0.29
+PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors,4.8,22.11,3.21,0.5,3.54,0.05,2.96,0.84,2.97,2.14,2.45,2.21,2.22,2.93,1.82
+Antihypertensives for pulmonary arterial hypertension,5.77,0.04,11.15,0.93,3.36,0.05,1.54,3.18,3.62,1.31,2.65,1.96,2.99,1.39,2.49
+Corticosteroids for local oral treatment,8.69,1.89,3.43,1.14,2.93,12.42,6.82,1.24,4.65,3.12,1.92,4.08,1.72,1.39,2.42
+Pyrimidine analogues,7.4,4.18,1.97,1.0,6.91,0.1,6.63,1.08,2.7,3.29,3.39,4.12,2.38,2.32,3.48
+Other protein kinase inhibitors,4.9,10.76,5.43,0.98,12.22,0.01,1.56,1.87,2.72,1.31,5.49,1.84,6.29,8.6,4.98
+Tumor necrosis factor alpha (TNF-alpha) inhibitors,7.15,0.15,2.43,0.53,1.18,0.08,2.52,3.0,2.23,1.04,2.0,0.86,1.27,1.05,0.96
+Platelet aggregation inhibitors excl. heparin,5.22,0.13,13.43,6.49,7.01,0.03,1.87,4.17,3.5,2.64,3.87,3.04,3.54,2.81,5.0
+Other antipsychotics,3.14,0.01,1.2,0.22,0.77,0.03,1.05,6.38,0.82,0.86,1.52,0.14,1.44,0.91,0.76
